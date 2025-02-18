@@ -22,15 +22,5 @@ public class DashboardPage extends BasePage{
     public void clickOnPIMTab(){
         click(pimTab);
     }
-//    public void clickOnAllProduct(){
-//        click(allProduct);
-//    }
-//
-//
-//    public List<String> getListProductName() {
-//        return produccts.stream()
-//                .map(WebElement::getText)
-//                .collect(Collectors.toList());
-//    }
 
 }
